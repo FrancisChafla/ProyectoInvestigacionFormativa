@@ -23,7 +23,7 @@ namespace Investigacion_Formativa
             Nombre = nombre;
             Articulo = articulo;
             Codigo = codigo;
-            Cantidad = cantidad;
+            Cantidad =cantidad;
         }
     }
 }
