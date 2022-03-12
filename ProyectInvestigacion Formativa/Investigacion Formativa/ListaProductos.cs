@@ -15,7 +15,7 @@ namespace Investigacion_Formativa
         }
         public void AgregarProduct(Producto producto)
         {
-            ListProductos.Add(producto);
+            ListProductos.Add( producto );
         }
 
     }
