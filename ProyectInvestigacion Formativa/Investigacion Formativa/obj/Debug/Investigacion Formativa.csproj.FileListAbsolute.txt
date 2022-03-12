@@ -1,0 +1,10 @@
+C:\Users\WinUser\source\repos\Investigacion Formativa\Investigacion Formativa\bin\Debug\Investigacion Formativa.exe.config
+C:\Users\WinUser\source\repos\Investigacion Formativa\Investigacion Formativa\bin\Debug\Investigacion Formativa.exe
+C:\Users\WinUser\source\repos\Investigacion Formativa\Investigacion Formativa\bin\Debug\Investigacion Formativa.pdb
+C:\Users\WinUser\source\repos\Investigacion Formativa\Investigacion Formativa\obj\Debug\Investigacion Formativa.csproj.AssemblyReference.cache
+C:\Users\WinUser\source\repos\Investigacion Formativa\Investigacion Formativa\obj\Debug\Investigacion_Formativa.Form1.resources
+C:\Users\WinUser\source\repos\Investigacion Formativa\Investigacion Formativa\obj\Debug\Investigacion_Formativa.Properties.Resources.resources
+C:\Users\WinUser\source\repos\Investigacion Formativa\Investigacion Formativa\obj\Debug\Investigacion Formativa.csproj.GenerateResource.cache
+C:\Users\WinUser\source\repos\Investigacion Formativa\Investigacion Formativa\obj\Debug\Investigacion Formativa.csproj.CoreCompileInputs.cache
+C:\Users\WinUser\source\repos\Investigacion Formativa\Investigacion Formativa\obj\Debug\Investigacion Formativa.exe
+C:\Users\WinUser\source\repos\Investigacion Formativa\Investigacion Formativa\obj\Debug\Investigacion Formativa.pdb
